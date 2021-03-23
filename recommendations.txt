@@ -1,0 +1,11 @@
+dried fruit,sunmaid raisins
+beer,Becks
+beer,Strongbow
+juice,rubyred
+cookies,Oreo
+jam,raspberry
+cereals,Reeses Puffs
+produce,oranges
+ketchup,heinz ketchup
+pasta sauce,RAGU
+crackers,cheeze-it

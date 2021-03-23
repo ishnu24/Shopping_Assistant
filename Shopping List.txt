@@ -1,0 +1,16 @@
+Chex,cereals
+Lay's,snacks
+Kraft Smooth Peanut Butter,jam
+Tetley Earl Grey,coffee/tea
+Twinkies,snacks
+pampers baby-dry,diapers
+mango juice,juice
+Lemonade,juice
+Smuckers Strawberry,jam
+Canola Oil,cooking oil
+apricots,dried fruit
+Stella,beer
+Pirate,cookies
+Triscuit,crackers
+apples,produce
+tomatoe,produce
